@@ -1,7 +1,4 @@
-- 👋 Hi, I’m zenn
-- 👀 I’m living at km26
-
-<!---
-orcaacyber/orcaacyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+hai namaku jemmy biasa dipanggil zen
+aku tinggal di KM 26
+aku bersekolah di mts alfarabi
+sekarang aku kelas 9
